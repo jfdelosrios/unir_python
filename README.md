@@ -1,3 +1,1 @@
-# Actividades del curso de Python de la UNIR
-
-Actividades del curso de Python de la UNIR
+# Actividades del curso de Curso de programación en Python ‐ PER 11036 - Enero 2024 de la UNIR
